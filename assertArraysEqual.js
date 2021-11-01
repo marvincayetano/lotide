@@ -17,3 +17,5 @@ function assertArraysEqual(arrOne, arrTwo) {
 
   assertEqual(false);
 };
+
+module.exports = assertArraysEqual;
